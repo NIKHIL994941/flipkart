@@ -1,1 +1,7 @@
-Java is a high-level, object-oriented programming language designed around the principle of "Write Once, Run Anywhere" (WORA). Originally created by James Gosling at Sun Microsystems in 1995 and now maintained by Oracle, it powers billions of devices worldwide.
+public class Main {
+    public static void main(String[] args) {
+        // Print text to the console
+        System.out.println("Hello, World!");
+    }
+}
+
